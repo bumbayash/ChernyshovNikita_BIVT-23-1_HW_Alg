@@ -1,0 +1,7 @@
+C:\Users\vpch8\source\repos\Dejkstraa\Dejkstraa\bin\Debug\Dejkstraa.exe.config
+C:\Users\vpch8\source\repos\Dejkstraa\Dejkstraa\bin\Debug\Dejkstraa.exe
+C:\Users\vpch8\source\repos\Dejkstraa\Dejkstraa\bin\Debug\Dejkstraa.pdb
+C:\Users\vpch8\source\repos\Dejkstraa\Dejkstraa\obj\Debug\Dejkstraa.csproj.AssemblyReference.cache
+C:\Users\vpch8\source\repos\Dejkstraa\Dejkstraa\obj\Debug\Dejkstraa.csproj.CoreCompileInputs.cache
+C:\Users\vpch8\source\repos\Dejkstraa\Dejkstraa\obj\Debug\Dejkstraa.exe
+C:\Users\vpch8\source\repos\Dejkstraa\Dejkstraa\obj\Debug\Dejkstraa.pdb
